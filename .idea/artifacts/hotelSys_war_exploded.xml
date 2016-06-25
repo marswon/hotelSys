@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hotelSys:war exploded">
+    <output-path>$USER_HOME$/apache-tomcat-8.0.35/webapps/hotelSys</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="hotelSys/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hotelSys" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
